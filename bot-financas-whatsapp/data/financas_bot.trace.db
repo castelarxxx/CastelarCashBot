@@ -1,0 +1,21 @@
+2025-10-27 20:24:48.089869-03:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:24:49.428578-03:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:24:49.953385-03:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:24:51.824714-03:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:24:53.069316-03:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:24:53.257502-03:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:24:53.419083-03:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]

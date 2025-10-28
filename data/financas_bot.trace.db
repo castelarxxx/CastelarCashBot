@@ -1,0 +1,132 @@
+2025-10-27 19:42:51.077685-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 19:43:07.453268-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 19:43:07.453268-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT telefone, SUM(valor) as saldo FROM transacoes GROUP BY telefone [42104-232]
+2025-10-27 19:43:26.748460-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM Transacoes [42104-232]
+2025-10-27 19:43:26.751007-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]INFORMATION_SCHEMA.USERS"; expected "INSERT"; SQL statement:
+INFORMATION_SCHEMA.USERS [42001-232]
+2025-10-27 19:53:20.733182-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 19:53:21.979227-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:04:17.240997-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:04:18.828615-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:04:46.629659-03:00 jdbc[15]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:16:21.800457-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT *FROM transacoes [42104-232]
+2025-10-27 20:16:22.684233-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT *FROM transacoes [42104-232]
+2025-10-27 20:16:22.885310-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT *FROM transacoes [42104-232]
+2025-10-27 20:16:23.061955-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT *FROM transacoes [42104-232]
+2025-10-27 20:17:11.157475-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:17:12.542997-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:17:13.056000-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:17:13.195201-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:17:13.364167-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:19:19.212803-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:19:20.976257-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:19:21.484592-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:19:21.647063-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:19:21.826627-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:26:01.670683-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:26:03.192945-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:26:03.406475-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:26:03.592250-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:26:03.754493-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:26:03.920951-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:26:04.091886-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:26:04.243752-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT * FROM transacoes [42104-232]
+2025-10-27 20:33:06.789112-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]rm -rf data/"; expected "ROLLBACK, REVOKE, RUNSCRIPT, RELEASE, REFRESH"; SQL statement:
+rm -rf data/ [42001-232]
+2025-10-27 21:02:38.898092-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT *FROM transacoes [42104-232]
+2025-10-27 21:04:02.333960-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT *FROM transacoes [42104-232]
+2025-10-27 21:04:03.921986-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT *FROM transacoes [42104-232]
+2025-10-27 21:04:04.226268-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT *FROM transacoes [42104-232]
+2025-10-27 21:04:04.403599-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT *FROM transacoes [42104-232]
+2025-10-27 21:04:04.573363-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT *FROM transacoes [42104-232]
+2025-10-27 21:17:42.694854-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT *FROM transacoes [42104-232]
+2025-10-27 21:23:55.475425-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT *FROM transacoes [42104-232]
+2025-10-27 21:23:56.281506-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT *FROM transacoes [42104-232]
+2025-10-27 21:23:56.416256-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT *FROM transacoes [42104-232]
+2025-10-27 21:24:42.923863-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TRANSACOES" not found (this database is empty); SQL statement:
+SELECT *FROM transacoes [42104-232]
