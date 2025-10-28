@@ -22,7 +22,7 @@ spring:
       enabled: false
 
 telegram:
-  bot-token: ${TELEGRAM_BOT_TOKEN:8446898752:AAExr5PSYDEEquTphWfzmHk5BVl4DyhoAzg}
+  bot-token: ${TELEGRAM_BOT_TOKEN}
   bot-username: ${TELEGRAM_BOT_USERNAME:CastelarCashBot}
 
 server:
